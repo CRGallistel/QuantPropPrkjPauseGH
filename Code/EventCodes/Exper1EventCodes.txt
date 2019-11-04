@@ -1,0 +1,8 @@
+spike = 40
+cspulse = 30
+CSon = 50
+CSoff = 60
+USon = 70
+USoff = 75
+TrlOn = 80
+TrlOff = 90
