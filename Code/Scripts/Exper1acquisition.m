@@ -947,7 +947,7 @@ end
 TSlimit('Subjects',1:10)
 TSapplystat('PutativePsOnsets',{'TSDataB' 'PeriCShistogram'},@pson)
 % Creates a 3-col field at the Session level: col 1 is the onset time of a
-% putative pause; col 2 is the firing rate prior to that onset minuse the
+% putative pause; col 2 is the firing rate prior to that onset minus the
 % firing rate after that onset (so positive values indicate a dip in
 % firing); col 3 is the weight of the evidence in favor of there being a
 % change at that point (NB not necessarily a downward change!)
